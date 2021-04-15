@@ -5,7 +5,7 @@ export default class HelloIteration extends LightningElement {
     contacts = [
         {
             Id: 1,
-            Name: 'Amy Taylor',
+            Name: 'Guilherme Rocha',
             Title: 'VP of Engineering',
         },
         {
