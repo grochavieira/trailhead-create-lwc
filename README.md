@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-    <h2>Componentes Web do Lightning</h2>
+    <h1>Componentes Web do Lightning</h1>
 </div>
 
 <h1 align="center">
