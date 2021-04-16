@@ -10,6 +10,9 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat">
  
 </p>
+
+# Componentes Web do Lightning
+
 <h1 align="center">
     <img src="./.github/badge.png" />
 </h1>
