@@ -11,9 +11,9 @@
  
 </p>
 
-<p align="center">
-    <h1>Componentes Web do Lightning</h1>
-</p>
+<div align="center">
+    <h2>Componentes Web do Lightning</h2>
+</div>
 
 <h1 align="center">
     <img src="./.github/badge.png" />
