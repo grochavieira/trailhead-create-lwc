@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/trailhead_create_lwc?color=%2304D361&style=flat">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/trailhead-create-lwc?color=%2304D361&style=flat">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/trailhead_create_lwc?style=flat">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/trailhead-create-lwc?style=flat">
   
-  <a href="https://github.com/grochavieira/trailhead_create_lwc/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/trailhead_create_lwc?style=flat">
+  <a href="https://github.com/grochavieira/trailhead-create-lwc/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/trailhead-create-lwc?style=flat">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat">
